@@ -1,0 +1,313 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    font-size: 14px;
+    box-sizing: border-box;
+}
+.head{
+
+   width: 100%;
+   height: 90px;
+
+}
+.canon{
+    
+   background-color: rgb(255, 255, 255);
+    width: 50%;
+    height: 90px;
+   align-items: center;
+   display: flex;
+   justify-content: center;
+   float: left;
+
+}  
+.icon-image-1{
+   float: left;
+}
+
+.logo{
+  
+   margin-top: 2.2%;
+   margin-left: 37%;
+    height: 33px;
+    width: 28%;
+    
+    
+}
+
+.icons{
+
+   margin-top: 0;
+    width: 50%;
+    height: 90px;
+    position: absolute;
+    left: 50%;
+ background-color: rgb(255, 255, 255);
+ align-items: center;
+ display: flex;
+ justify-content: center;
+
+
+}
+.icon-1{
+  float: right;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+.icons img{
+
+    width: 33px;
+    height: 33px;
+}
+
+.icon1{
+
+    
+    padding-left: 50%;
+    padding-top: 10px;
+}
+
+.text {
+   font-family: sans-serif;
+   font-weight: lighter;
+   font-size: 10px;
+   padding-left: 18.3%;   
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 17px;
+    margin-left: 10px;
+}
+
+ .setting1{
+    padding-top: 8px;
+    width: 100%;
+ }
+
+
+.headingdiv{
+
+   background-color:#f3f3f3;
+   width: 100%;
+   height:15%;
+
+}
+ 
+
+ .heading{
+    text-align: center;
+    color: black;
+    font-size: 35px;
+    padding-top: 45px;
+    padding-bottom: 30px;
+    font-family: 'Frutiger Neue W01 Light', 'Frutiger', 'lato', 'segoe', Arial, Helvetica, sans-serif;
+ }
+
+ .folder{
+    background-color:#f3f3f3;;
+    height: 580px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+    justify-content: space-around;
+ }
+
+ .pic1{
+    background-color: white;
+    color: black;
+    height:600px;
+    width: 400px;
+ }
+ .pic1s{
+    padding-top: 25px;
+    padding-left: 15px;
+    width: 370px ;
+    height: 300px;
+ }
+
+.atag{
+    color: rgb(102, 100, 98);
+    padding-left: 15px;
+    font-size: 15px;
+ }
+
+ .ptag{
+    color: black;
+    padding-left: 15px;
+    font-size: 20px;
+    padding-top: 5px;
+ }
+ .note1{
+    background-color:white;
+    color: black;
+    height:600px;
+    width: 400px;
+    float:inline-end;
+ }
+
+ .atag1{
+    color: rgb(102, 100, 98);
+    padding-left: 15px;
+    font-size: 15px;
+    padding-top: 20px;
+ }
+
+ .ptag1{
+    padding-top:8px ;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-size: 18px;
+   padding-left: 15px;
+ }
+
+ .ptag2{
+    color: white;
+    font-size: 20px;
+    padding-top: 5px;
+    padding-left: 15px;
+ }
+ 
+ .pic2s{
+    width: 400px ;
+    height: 300px;
+ }
+
+.btn{
+   text-align: center;
+   background-color:#f3f3f3;
+   width: 100%;
+   height:15%;
+}
+
+.btnclass{
+    margin-top: 75px;
+    margin-bottom:60px ;
+    width: 8%;
+    height: 35px;
+}
+
+.folder2{
+    padding-bottom: 80px;
+    height: 100px;
+    background-color:white;
+
+}
+
+.pic3{
+
+   height: 800px;
+   width: 100%;
+
+}
+
+.pic3cl{
+   height: 800px;
+   width: 60%;
+}
+
+.text2{
+   width: 40%;
+   height:800px ;
+   background-color:rgb(126, 121, 121);
+   float: right;
+   padding-left: 80px;
+}
+
+.innertext{
+
+   color: beige;
+   padding-top: 350px;
+   font-family: 'Frutiger Neue W01 Light', 'Frutiger', 'lato', 'segoe', Arial, Helvetica, sans-serif;
+   font-size: 25px;
+   letter-spacing: 1.2px;
+   
+}
+
+.addtext{
+
+   color: beige;
+   font-size: 17px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.redfolder{
+
+   background-color: rgb(214, 39, 39);
+   width: 100%;
+   height: 15%;
+   display: flex;
+   flex-direction:row;
+   justify-content: space-around;
+   padding-right: 25%;
+   padding-left: 15%;
+
+}
+
+.imgcl{
+
+   padding-left: 40px;
+   padding-top: 115px;
+   padding-bottom: 115px;
+
+}
+
+.lastdiv{
+
+   display: flex;
+   padding-left: 15%;
+   padding-right: 15%;
+   flex-direction: row;
+   height: 200pv;
+   width: 100%;
+   justify-content: space-around;
+   background-color:white;
+  
+}
+
+.last{
+  
+   margin-top: 50px;
+   margin-bottom: 80px;
+   
+ 
+}
+
+.last1{
+
+   margin-top: 50px;
+   margin-bottom: 80px;
+  
+}
+
+.text {
+   font-family: sans-serif;
+   font-size: 25px;
+      
+}
+
+.endcl{
+
+   height:41px;
+   background-color: #585555;
+   display: flex;
+   align-items: center;
+}
+
+.frst-end{
+   columns: white;
+   margin-right: 80vh;
+   margin-left: 30vh;
+}
+
+.Sec-end{
+   width: 100%;
+   margin-left: 120vh;
+   color: white;
+}
+
+.endcl a{
+   color: white;
+}
